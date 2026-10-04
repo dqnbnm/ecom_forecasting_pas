@@ -1,0 +1,12 @@
+{
+  "history_start": "2024-09-01",
+  "history_end": "2026-08-31",
+  "seed": 42,
+  "sku_count": 30,
+  "location": {"name": "Москва", "latitude": 55.7558, "longitude": 37.6173},
+  "timezone": "Europe/Moscow",
+  "timeout_seconds": 30,
+  "attempts": 3,
+  "calendar_cache_days": 7,
+  "forecast_cache_minutes": 60
+}
